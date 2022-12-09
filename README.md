@@ -7,7 +7,8 @@
 
 `💻` This was a challenge to build a simple API driven website using EJS
 
-It was a way to get back to the days where websites were simple yet complex and very much performant.
+It was a way to return to a time when websites were simple yet complex and extremely performant.
+
 Learn't alot from it, gota love old tools they were simple to the core and yet very powerful its frightening
 
 
