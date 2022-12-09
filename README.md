@@ -18,6 +18,8 @@ A quick preview of the application
 
 ![Demo GIF](/docs/demo.gif)
 
+<iframe frameborder="0" width="100%" height="500px" src="[REPL_URL](https://replit.com/@WalterBanda/itunes-ejs-challenge)?embed=true"></iframe>
+
 
 ## Deployment n' Running
 
